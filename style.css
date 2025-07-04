@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+div{
+    background: blueviolet;
+    padding: auto;
+    margin-bottom: 10px;
+}
